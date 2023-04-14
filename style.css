@@ -20,4 +20,26 @@
 
     border: 2px solid;
     }
+
+    .caja3 {
+    width: 250px;
+    height: 805px;
+    background-color:#dfcea2;
+    left: 248px;
+    top: 30px;
+    position: absolute;
+
+    border: 2px solid;
     
+    }
+    .caja4 {
+    height: 235px;
+    width: 250px;
+    background-color: #b8aa9c;
+    top: 289px;
+    position:absolute;
+
+    border: 3px dashed;
+    border-right-width: 0px;
+    border-left-width: 0px;
+    }
