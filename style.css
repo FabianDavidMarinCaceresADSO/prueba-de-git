@@ -43,3 +43,14 @@
     border-right-width: 0px;
     border-left-width: 0px;
     }
+
+    .caja5 {
+    height: 4000px;
+    width: 260px;
+    background-color: #dfcea2;
+    top: 1px;
+    left: 265px;
+    position: absolute;
+    
+
+    }
