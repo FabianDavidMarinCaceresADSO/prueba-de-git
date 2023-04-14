@@ -51,6 +51,14 @@
     top: 1px;
     left: 265px;
     position: absolute;
-    
-
     }
+
+    .caja6 {
+        height: 8000px;
+        width: 260px;
+        background-color: #dfcea2;
+        top: 1px;
+        left: 540px;
+        position: absolute;
+    }
+    
